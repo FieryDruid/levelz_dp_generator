@@ -16,8 +16,8 @@ class SupportedTypes(Enum):
     item = auto()
     mining = auto()
     smithing = auto()
-    crafting = auto()
 
+    # crafting = auto()
     # advancements = auto()
     # tags = auto()
 
